@@ -34,6 +34,8 @@ def choice()
   end
 end
 
+#la saisie de number_question va renvoyer dans l'array answers qui va exectuer la reponse
+#la boucle ne s'arrete pas
 
 choice
 
