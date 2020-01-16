@@ -9,5 +9,6 @@ b = ["$6558.07", "$468.95", "$0.487526", "$762.84", "$8.86", "$85.26", "$0.15126
  hash = a.zip(b).to_h
  
  puts a.select{ |e| e.include? 'coin' }
+ 
  #a.to_s.gsub('"', '')
 #puts hash.sort_by{|k,v| v}
